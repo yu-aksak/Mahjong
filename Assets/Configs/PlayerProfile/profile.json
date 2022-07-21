@@ -1,0 +1,37 @@
+{
+  "Wallet": {
+    "currencies": {
+      "Coins": {
+        "Type": 0,
+        "Value": 2815
+      },
+      "Crystal": {
+        "Type": 1,
+        "Value": 0
+      }
+    }
+  },
+  "Inventory": {
+    "items": {
+      "Background": [
+        0,
+        2,
+        3,
+        4,
+        1
+      ],
+      "Mahjong": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  "SelectedItems": {
+    "Background": 4,
+    "Mahjong": 0
+  }
+}

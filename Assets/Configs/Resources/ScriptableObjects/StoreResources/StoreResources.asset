@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c96996e7fe24a05aa5935daafa0b96f, type: 3}
+  m_Name: StoreResources
+  m_EditorClassIdentifier: 
+  textAssetResourceDataCollection:
+    type: 1
+    resources:
+    - item:
+        name: Boat
+        currency:
+          type: 0
+          value: 0
+      preview: {fileID: 21300000, guid: 6173b420efea44925aa8d05debfd57de, type: 3}
+      asset: {fileID: 4900000, guid: f9ddbc384c0ff49c286b834c06a92636, type: 3}
+    - item:
+        name: Circle
+        currency:
+          type: 0
+          value: 0
+      preview: {fileID: 21300000, guid: 607e677777b0a41839c66dec3662956a, type: 3}
+      asset: {fileID: 4900000, guid: 4cd34d5afb7874564852de5986805f25, type: 3}
+    - item:
+        name: Cup Of Tear
+        currency:
+          type: 0
+          value: 30
+      preview: {fileID: 21300000, guid: ae5eabdcc3d7a40758ab3c703d668305, type: 3}
+      asset: {fileID: 4900000, guid: 84922d4c0b7c4407999b246df18bf8a0, type: 3}
+    - item:
+        name: Diamond
+        currency:
+          type: 0
+          value: 40
+      preview: {fileID: 21300000, guid: 1729b9debd0ef41068c20f35a14aaffd, type: 3}
+      asset: {fileID: 4900000, guid: b3ae6b32fa65648c39eb1236db9a2997, type: 3}
+    - item:
+        name: Heart
+        currency:
+          type: 0
+          value: 45
+      preview: {fileID: 21300000, guid: 64a5819df5e9e449e8c99993e8925ea6, type: 3}
+      asset: {fileID: 4900000, guid: 289915f1271c74f5ca0f4b5f50de05ea, type: 3}
+    - item:
+        name: Plane
+        currency:
+          type: 0
+          value: 50
+      preview: {fileID: 21300000, guid: 8a7c42fdda6ae451d8886a626f66b5e2, type: 3}
+      asset: {fileID: 4900000, guid: 3ee50cf48d27b454cb3475e627112d74, type: 3}
+    - item:
+        name: Pyramids
+        currency:
+          type: 0
+          value: 50
+      preview: {fileID: 21300000, guid: 3f8822154f5f1415982c6c6fcbef0892, type: 3}
+      asset: {fileID: 4900000, guid: 2da1dca6f240a4f8d9642942aa14cc42, type: 3}
+    - item:
+        name: X-Mas Tree
+        currency:
+          type: 0
+          value: 70
+      preview: {fileID: 21300000, guid: 4c777c18ac65e4fcc876fdc151be9748, type: 3}
+      asset: {fileID: 4900000, guid: f510f50cb04244d95ad6257d06cd9ebe, type: 3}
+  spriteResourceDataCollection:
+    type: 0
+    resources:
+    - item:
+        name: Main
+        currency:
+          type: 0
+          value: 0
+      preview: {fileID: 21300000, guid: 01d616c9269a341f2af3a18858973e20, type: 3}
+      asset: {fileID: 21300000, guid: 01d616c9269a341f2af3a18858973e20, type: 3}
+    - item:
+        name: Mahjong Table
+        currency:
+          type: 0
+          value: 10
+      preview: {fileID: 21300000, guid: fd0441ba4bc094ee7aa4110e23628be3, type: 3}
+      asset: {fileID: 21300000, guid: fd0441ba4bc094ee7aa4110e23628be3, type: 3}
+    - item:
+        name: Mahjong Table 2
+        currency:
+          type: 0
+          value: 20
+      preview: {fileID: 21300000, guid: 3fcf26e6a02334b0e84376fa73dc53bf, type: 3}
+      asset: {fileID: 21300000, guid: 3fcf26e6a02334b0e84376fa73dc53bf, type: 3}
+    - item:
+        name: Desert
+        currency:
+          type: 0
+          value: 20
+      preview: {fileID: 21300000, guid: cf03378f1aa3541d6acba86bbfe88412, type: 3}
+      asset: {fileID: 21300000, guid: cf03378f1aa3541d6acba86bbfe88412, type: 3}
+    - item:
+        name: Forest
+        currency:
+          type: 0
+          value: 30
+      preview: {fileID: 21300000, guid: 8e7017376b63745d48e822a02a8e8600, type: 3}
+      asset: {fileID: 21300000, guid: 8e7017376b63745d48e822a02a8e8600, type: 3}

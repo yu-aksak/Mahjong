@@ -1,0 +1,22 @@
+{
+    "name": "Core.StoreModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bd0917c9b0509c046a18959bfa35b2aa",
+        "GUID:37e6897bb13dff34aaabf5de68e716f7",
+        "GUID:488fbb5f4bad8a94daedd0c8d1239e93",
+        "GUID:a201c981310e60347ae8115d6e4c0617",
+        "GUID:3dd2cb52eff6e5743bdb8fcc64baed91",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:7f163498301e25e48a197343e3220934"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

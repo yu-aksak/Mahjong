@@ -1,0 +1,18 @@
+{
+    "name": "Core.PlayerModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:488fbb5f4bad8a94daedd0c8d1239e93",
+        "GUID:bd0917c9b0509c046a18959bfa35b2aa",
+        "GUID:7f163498301e25e48a197343e3220934"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

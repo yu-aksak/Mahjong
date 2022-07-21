@@ -1,0 +1,17 @@
+{
+    "name": "Core.ItemModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a201c981310e60347ae8115d6e4c0617",
+        "GUID:bd0917c9b0509c046a18959bfa35b2aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Core.SoundModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75992adb30bf51f40a7a0f3283432aa2",
+        "GUID:99ef8606b3653ca4fba4d15b7ce08eea",
+        "GUID:488fbb5f4bad8a94daedd0c8d1239e93",
+        "GUID:a201c981310e60347ae8115d6e4c0617",
+        "GUID:9d07f306048718f4cab5117ffeebe3d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

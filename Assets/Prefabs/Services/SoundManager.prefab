@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5824862947155684490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4254329810756736710}
+  - component: {fileID: 5168780187870441139}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4254329810756736710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824862947155684490}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 418.45914, y: 46.660866, z: -63.768753}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5168780187870441139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824862947155684490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99da272ffbd549a0aa39100f3f957f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - {fileID: 8300000, guid: 75dc5462295e549e9a45f3d63b6bbee0, type: 3}
+  - {fileID: 8300000, guid: 5ec31113bd04240a28cfa578ecc377f2, type: 3}
+  - {fileID: 8300000, guid: 8b3b4b6ed908f44668afb9394e1c7ba3, type: 3}
+  - {fileID: 8300000, guid: bf95f53eef62a4371b4a0b15c667a017, type: 3}
+  - {fileID: 8300000, guid: ffde405ca26b04943bba0b1429ac731b, type: 3}
+  - {fileID: 8300000, guid: 158932374ea30934a94868969151730a, type: 3}
+  - {fileID: 8300000, guid: 4e5dedc529d09d846a56a57d095e546a, type: 3}
+  - {fileID: 8300000, guid: 9387b7605c75d0344b27d1c7b6d73990, type: 3}
+  - {fileID: 8300000, guid: 039a5caabde2dcb42805dd2995077da9, type: 3}
+  soundGroup: {fileID: 24300002, guid: 54917bb02ca3443079ab41c32c541317, type: 2}
+  musicGroup: {fileID: 24300002, guid: 88ee99bf77108485b99417186a244d5d, type: 2}

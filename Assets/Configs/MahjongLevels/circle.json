@@ -1,0 +1,592 @@
+{
+  "tiles": {
+    "31": {
+      "IsBlocked": false,
+      "BlockerCount": 0,
+      "LayerId": {
+        "x": 0,
+        "y": 3,
+        "z": 1
+      }
+    },
+    "41": {
+      "IsBlocked": false,
+      "BlockerCount": 0,
+      "LayerId": {
+        "x": 0,
+        "y": 4,
+        "z": 1
+      }
+    },
+    "731": {
+      "IsBlocked": false,
+      "BlockerCount": 0,
+      "LayerId": {
+        "x": 7,
+        "y": 3,
+        "z": 1
+      }
+    },
+    "741": {
+      "IsBlocked": false,
+      "BlockerCount": 0,
+      "LayerId": {
+        "x": 7,
+        "y": 4,
+        "z": 1
+      }
+    },
+    "201": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 2,
+        "y": 0,
+        "z": 1
+      }
+    },
+    "501": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 5,
+        "y": 0,
+        "z": 1
+      }
+    },
+    "111": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "211": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 2,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "511": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 5,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "611": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 6,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "21": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 0,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "121": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 1,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "621": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 6,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "721": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 7,
+        "y": 2,
+        "z": 1
+      }
+    },
+    "51": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 0,
+        "y": 5,
+        "z": 1
+      }
+    },
+    "151": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 1,
+        "y": 5,
+        "z": 1
+      }
+    },
+    "751": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 7,
+        "y": 5,
+        "z": 1
+      }
+    },
+    "651": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 6,
+        "y": 5,
+        "z": 1
+      }
+    },
+    "161": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 1,
+        "y": 6,
+        "z": 1
+      }
+    },
+    "261": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 2,
+        "y": 6,
+        "z": 1
+      }
+    },
+    "571": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 5,
+        "y": 7,
+        "z": 1
+      }
+    },
+    "271": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 2,
+        "y": 7,
+        "z": 1
+      }
+    },
+    "561": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 5,
+        "y": 6,
+        "z": 1
+      }
+    },
+    "661": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 6,
+        "y": 6,
+        "z": 1
+      }
+    },
+    "431": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 4,
+        "y": 3,
+        "z": 1
+      }
+    },
+    "441": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 4,
+        "y": 4,
+        "z": 1
+      }
+    },
+    "341": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 3,
+        "y": 4,
+        "z": 1
+      }
+    },
+    "331": {
+      "IsBlocked": false,
+      "BlockerCount": 1,
+      "LayerId": {
+        "x": 3,
+        "y": 3,
+        "z": 1
+      }
+    },
+    "30": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 0,
+        "y": 3,
+        "z": 0
+      }
+    },
+    "40": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 0,
+        "y": 4,
+        "z": 0
+      }
+    },
+    "740": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 7,
+        "y": 4,
+        "z": 0
+      }
+    },
+    "730": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 7,
+        "y": 3,
+        "z": 0
+      }
+    },
+    "301": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 3,
+        "y": 0,
+        "z": 1
+      }
+    },
+    "401": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 4,
+        "y": 0,
+        "z": 1
+      }
+    },
+    "371": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 3,
+        "y": 7,
+        "z": 1
+      }
+    },
+    "471": {
+      "IsBlocked": true,
+      "BlockerCount": 2,
+      "LayerId": {
+        "x": 4,
+        "y": 7,
+        "z": 1
+      }
+    },
+    "200": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 2,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "500": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 5,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "110": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+      }
+    },
+    "210": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 2,
+        "y": 1,
+        "z": 0
+      }
+    },
+    "120": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 1,
+        "y": 2,
+        "z": 0
+      }
+    },
+    "20": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 0,
+        "y": 2,
+        "z": 0
+      }
+    },
+    "50": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 0,
+        "y": 5,
+        "z": 0
+      }
+    },
+    "150": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 1,
+        "y": 5,
+        "z": 0
+      }
+    },
+    "160": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 1,
+        "y": 6,
+        "z": 0
+      }
+    },
+    "260": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 2,
+        "y": 6,
+        "z": 0
+      }
+    },
+    "270": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 2,
+        "y": 7,
+        "z": 0
+      }
+    },
+    "570": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 5,
+        "y": 7,
+        "z": 0
+      }
+    },
+    "660": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 6,
+        "y": 6,
+        "z": 0
+      }
+    },
+    "560": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 5,
+        "y": 6,
+        "z": 0
+      }
+    },
+    "650": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 6,
+        "y": 5,
+        "z": 0
+      }
+    },
+    "750": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 7,
+        "y": 5,
+        "z": 0
+      }
+    },
+    "720": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 7,
+        "y": 2,
+        "z": 0
+      }
+    },
+    "620": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 6,
+        "y": 2,
+        "z": 0
+      }
+    },
+    "610": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 6,
+        "y": 1,
+        "z": 0
+      }
+    },
+    "510": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 5,
+        "y": 1,
+        "z": 0
+      }
+    },
+    "330": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 3,
+        "y": 3,
+        "z": 0
+      }
+    },
+    "430": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 4,
+        "y": 3,
+        "z": 0
+      }
+    },
+    "440": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 4,
+        "y": 4,
+        "z": 0
+      }
+    },
+    "340": {
+      "IsBlocked": true,
+      "BlockerCount": 3,
+      "LayerId": {
+        "x": 3,
+        "y": 4,
+        "z": 0
+      }
+    },
+    "300": {
+      "IsBlocked": true,
+      "BlockerCount": 4,
+      "LayerId": {
+        "x": 3,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "400": {
+      "IsBlocked": true,
+      "BlockerCount": 4,
+      "LayerId": {
+        "x": 4,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "370": {
+      "IsBlocked": true,
+      "BlockerCount": 4,
+      "LayerId": {
+        "x": 3,
+        "y": 7,
+        "z": 0
+      }
+    },
+    "470": {
+      "IsBlocked": true,
+      "BlockerCount": 4,
+      "LayerId": {
+        "x": 4,
+        "y": 7,
+        "z": 0
+      }
+    }
+  },
+  "gridSizes": [
+    {
+      "x": 8,
+      "y": 8
+    },
+    {
+      "x": 8,
+      "y": 8
+    }
+  ],
+  "maxLayerId": 2,
+  "gameDuration" : 300
+}

@@ -1,0 +1,112 @@
+{
+  "items": {
+    "Background": [
+      {
+        "name": "Main",
+        "currency": {
+          "Type": 0,
+          "Value": 0
+        },
+        "ResourceId": 0
+      },
+      {
+        "name": "Mahjong Table",
+        "currency": {
+          "Type": 0,
+          "Value": 10
+        },
+        "ResourceId": 1
+      },
+      {
+        "name": "Mahjong Table 2",
+        "currency": {
+          "Type": 0,
+          "Value": 20
+        },
+        "ResourceId": 2
+      },
+      {
+        "name": "Desert",
+        "currency": {
+          "Type": 0,
+          "Value": 20
+        },
+        "ResourceId": 3
+      },
+      {
+        "name": "Forest",
+        "currency": {
+          "Type": 0,
+          "Value": 30
+        },
+        "ResourceId": 4
+      }
+    ],
+    "Mahjong": [
+      {
+        "name": "Boat",
+        "currency": {
+          "Type": 0,
+          "Value": 0
+        },
+        "ResourceId": 0
+      },
+      {
+        "name": "Circle",
+        "currency": {
+          "Type": 0,
+          "Value": 0
+        },
+        "ResourceId": 1
+      },
+      {
+        "name": "Cup Of Tear",
+        "currency": {
+          "Type": 0,
+          "Value": 30
+        },
+        "ResourceId": 2
+      },
+      {
+        "name": "Diamond",
+        "currency": {
+          "Type": 0,
+          "Value": 40
+        },
+        "ResourceId": 3
+      },
+      {
+        "name": "Heart",
+        "currency": {
+          "Type": 0,
+          "Value": 45
+        },
+        "ResourceId": 4
+      },
+      {
+        "name": "Plane",
+        "currency": {
+          "Type": 0,
+          "Value": 50
+        },
+        "ResourceId": 5
+      },
+      {
+        "name": "Pyramids",
+        "currency": {
+          "Type": 0,
+          "Value": 50
+        },
+        "ResourceId": 6
+      },
+      {
+        "name": "X-Mas Tree",
+        "currency": {
+          "Type": 0,
+          "Value": 70
+        },
+        "ResourceId": 7
+      }
+    ]
+  }
+}
